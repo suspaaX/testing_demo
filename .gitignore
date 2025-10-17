@@ -1,5 +1,6 @@
 ZELDA/
-*.test_demo.py
+.test_demo.py
 automation-scripts/
 env/
-*.1.png
+.1.png
+one_good_company/
