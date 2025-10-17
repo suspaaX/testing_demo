@@ -1,0 +1,100 @@
+=========================================================================================================================================================
+code .in git (open vscode)
+ls(all folder)
+ls -lart(all hidden folder)
+untraced,unmodified,modified,staged(ready for photograph)
+git init(for informing git is activate now
+git config --global user.name abhishek(for your identity)////  git config --global user.email abhishekkumar269@gmail.com(for user email)//// git config --global user.email(source user mail)//// git config --global user.name(source user name)
+
+git add index.html(for adding one file)
+git add -A or git add .(add all file git repo)
+touch index.html (create new files),git add -A (add all file),git commit -a -m "adding waste file"
+git status (for checking everyting is ok)
+git commit -m "initial commit"(all set for click photo )
+touch index.html(add new file)
+
+
+git rm -f index.html( remove file)
+git log -p -1(checking what going on in previous task)
+git branch feature1(new terimial creation)
+git checkout index.html(match prev file )
+git checkout -f( match all changes before and after checkout)
+git checkout feature1(for creating new terminal for create new thing if master is main and website is live)
+git checkout flaskinteration to master(swtich new production to master)
+git merge features1(merging master and features1)
+
+
+
+
+
+
+
+
+
+git *kali.txt file in git.ignore means never included in gitgub
+U in green(undefined file)
+M in red(modifide file)
+git clone (githublink) download all file in particular git folder(desktop)
+q(break sesssion in git)
+git diff(stagging vs modifed)
+git diff --staged
+git clear (clear all thing)
+git commit -m (new terminal other than master)
+
+
+.gitignore( this file contains not to perform any action or simply dead mode)i.e .cpp,.txt
+.gitignore(/ignore.txt) complete igonore this folder
+git push (only pushing other branch except master)
+git push -u origin master (only pushing in master) 
+git commit -a -m "initial commit"(direct add and commit both at a time)
+git push (if new change occur in my projects and upload again)
+=========================================================================================================================================================
+github private
+(1)git status
+(2)git checkout master
+(3)git status
+(4)git link
+(5)git remote - origin
+(6)git remote -v (url for git)
+(7)git push origin master(for pushing master branch) not fetching beacuse of private repo 
+(8) go to settings got to ssh and gpg then generating ssh key then follow instruction in git site (key generation )
+(9)key genertion to ssh key entry
+(10)git push -u origin master
+(11)repo not found error
+(12)ssh to http convesion(git remote set-url origin )
+(13)git remote
+(14)git remote -v 
+(15)finall change url
+(16)git push -u origin master
+(17)process complete
+(18) git chackout other master(flaskintegration)
+(19)git push -u other branch(flaskintegration)
+=========================================================================================================================================================
+github public
+(1)git init
+(2)git status
+(3)git add . 
+(3)git commit -m "first commit"
+(4)git status
+(5)github link(http//:guthub.com)
+(6)git push -u origin master
+(7)git push -u origin newmaster
+
+note steps 1.add 2.commit 3. push
+=========================================================================================================================================================
+
+
+
+git remote set-url origin <NEW_GIT_URL_HERE>
+
+
+.gitignore (jo file git mein na dalna ho) 
+I.e .venv
+
+
+
+
+
+
+
+
