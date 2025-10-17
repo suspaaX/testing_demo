@@ -2,3 +2,4 @@ ZELDA/
 *.test_demo.py
 automation-scripts/
 env/
+*.1.png
